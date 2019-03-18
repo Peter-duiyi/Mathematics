@@ -3,14 +3,7 @@
 ![image](https://github.com/Peter-duiyi/Mathematics/blob/master/images/Permutation.jpg)
 
 
-### Combination
-
-
-
-
-
-
-### Permutation
+[排列组合例题精选]https://wenku.baidu.com/view/4b3dd7da50e2524de5187e26.html
 
 
 
