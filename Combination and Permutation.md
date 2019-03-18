@@ -1,5 +1,5 @@
 ### Formular
-![image](https://github.com/Peter-duiyi/Mathematics/blob/master/images/Combination.jpg)
+![image](https://github.com/Peter-duiyi/Mathematics/blob/master/images/Combination.jpg)  
 ![image](https://github.com/Peter-duiyi/Mathematics/blob/master/images/Permutation.jpg)
 
 
